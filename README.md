@@ -19,6 +19,8 @@ If you have any paper recommendations: Please contact me.
 * [EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models](https://ieeexplore.ieee.org/abstract/document/10916480)
 * [AccLLM: Accelerating Long-Context LLM Inference Via Algorithm-Hardware Co-Design](http://arxiv.org/abs/2505.03745)
 * [FastMamba: A High-Speed and Efficient Mamba Accelerator on FPGA with Accurate Quantization](http://arxiv.org/abs/2505.18975)
+* [An Efficient FPGA-Based Hardware Accelerator of Fully Quantized Mamba-2](https://ieeexplore.ieee.org/abstract/document/11008931)
+* [eMamba: Efficient Acceleration Framework for Mamba Models in Edge Computing](https://doi.org/10.1145/3762190)
 ### 2024
 * [Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference](http://arxiv.org/abs/2312.15159)
 * [FAMOUS: Flexible Accelerator for the Attention Mechanism of Transformer on UltraScale+ FPGAs](http://arxiv.org/abs/2409.14023)
