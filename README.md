@@ -18,6 +18,7 @@ If you have any paper recommendations: Please contact me.
 * [Hummingbird: A Smaller and Faster Large Language Model Accelerator on Embedded FPGA](http://arxiv.org/abs/2507.03308)
 * [EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models](https://ieeexplore.ieee.org/abstract/document/10916480)
 * [AccLLM: Accelerating Long-Context LLM Inference Via Algorithm-Hardware Co-Design](http://arxiv.org/abs/2505.03745)
+* [FastMamba: A High-Speed and Efficient Mamba Accelerator on FPGA with Accurate Quantization](http://arxiv.org/abs/2505.18975)
 ### 2024
 * [Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference](http://arxiv.org/abs/2312.15159)
 * [FAMOUS: Flexible Accelerator for the Attention Mechanism of Transformer on UltraScale+ FPGAs](http://arxiv.org/abs/2409.14023)
@@ -35,6 +36,9 @@ If you have any paper recommendations: Please contact me.
 * [FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs](https://doi.org/10.1145/3626202.3637562)
 * [Designing Efficient LLM Accelerators for Edge Devices](http://arxiv.org/abs/2408.00462)
 * [Co-design of a TinyLLM using Programmable Logic and Software on an FPGA](https://ieeexplore.ieee.org/abstract/document/10658754)
+* [Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference](https://doi.org/10.1145/3656177)
+* [Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective](http://arxiv.org/abs/2410.04466)
+* [Hardware Acceleration of LLMs: A comprehensive survey and comparison](http://arxiv.org/abs/2409.03384)
 ### 2023
 * [A Fast and Flexible FPGA-based Accelerator for Natural Language Processing Neural Networks](https://dl.acm.org/doi/10.1145/3564606)
 * [FET-OPU: A Flexible and Efficient FPGA-Based Overlay Processor for Transformer Networks](https://ieeexplore.ieee.org/document/10323752/)
