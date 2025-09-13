@@ -6,7 +6,7 @@ Paper recommendations (accepted by conference): Please contact [me](yxue732@auck
 ## Papers
 ### 2025  
 * [Design and Implementation of an FPGA-Based Hardware Accelerator for Transformer](http://arxiv.org/abs/2503.16731)
-  [Dynamic Sparsity Prediction], [Tiling Strategy], [Memory Access Optimization]
+  * [Dynamic Sparsity Prediction], [Tiling Strategy], [Memory Access Optimization]
 
 
 * . []()
