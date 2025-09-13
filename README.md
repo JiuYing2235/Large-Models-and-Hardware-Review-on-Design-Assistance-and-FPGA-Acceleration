@@ -1,20 +1,14 @@
 # Paper on FPGA-based LLM accelerator
 This list focuses on understanding optimization methods for FPGA-based Large Language Model (LLM) accelerators.   
+     
 Paper recommendations (accepted by conference): Please contact [me](yxue732@aucklanduni.ac.nz).  
 
-* TerEffic: Highly Efficient Ternary LLM Inference on FPGA. [10.48550/arXiv.2502.16473](http://arxiv.org/abs/2502.16473)
-* TeLLMe: An Energy-Efficient Ternary LLM Accelerator for Prefilling and Decoding on Edge FPGAs. [10.48550/arXiv.2504.16266](http://arxiv.org/abs/2504.16266)
-* Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA. [10.48550/arXiv.2502.10659](http://arxiv.org/abs/2502.10659)
-* On-Device Qwen2.5: Efficient LLM Inference with Model Compression and Hardware Acceleration. [10.48550/arXiv.2504.17376](http://arxiv.org/abs/2504.17376)
-* LoopLynx: A Scalable Dataflow Architecture for Efficient LLM Inference. [10.48550/arXiv.2504.09561](http://arxiv.org/abs/2504.09561)
-* LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs. [10.48550/arXiv.2409.11424](http://arxiv.org/abs/2409.11424)
-* LightMamba: Efficient Mamba Acceleration on FPGA with Quantization and Hardware Co-design. [10.48550/arXiv.2502.15260](http://arxiv.org/abs/2502.15260)
-* Hummingbird: A Smaller and Faster Large Language Model Accelerator on Embedded FPGA. [10.48550/arXiv.2507.03308](http://arxiv.org/abs/2507.03308)
-* GLITCHES: GPU-FPGA LLM Inference Through a Collaborative Heterogeneous System. [10.1109/HPEC62836.2024.10938498](https://ieeexplore.ieee.org/abstract/document/10938498)
-* FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs. [10.48550/arXiv.2401.03868](http://arxiv.org/abs/2401.03868)
-* EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models. [10.1109/TCSI.2025.3546256](https://ieeexplore.ieee.org/abstract/document/10916480)
-* DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation. [10.48550/arXiv.2209.10797](http://arxiv.org/abs/2209.10797)
-* Designing Efficient LLM Accelerators for Edge Devices. [10.48550/arXiv.2408.00462](http://arxiv.org/abs/2408.00462)
+## Papers
+### 2025  
+* [Design and Implementation of an FPGA-Based Hardware Accelerator for Transformer](http://arxiv.org/abs/2503.16731)
+  [Dynamic Sparsity Prediction], [Tiling Strategy], [Memory Access Optimization]
+
+
 * . []()
 * . []()
 * . []()
